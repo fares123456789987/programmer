@@ -1,0 +1,99 @@
+*{
+        margin: 0px;
+        padding: 0px;
+}
+body{
+        background-image: url("img/2.jpg");
+        
+}
+h1{
+        color: wheat;
+        text-align: center;
+}
+button{
+        background-color: rgba(43, 226, 171, 0.801);
+        color: white;
+        width: 80px;
+        height: 30px;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: 0.5s;
+
+}
+button:hover{
+        background-color: green;
+        width:85px;
+}
+
+p{
+        color: wheat;
+        text-align: right;
+        color: white;
+
+        font-size: 20px;
+}  
+
+#two{
+        text-align: right;
+        margin-top: 200px;
+        margin-right: 10px;
+
+}
+a img{
+        width: 48px;
+        transition: 0.5s;
+}
+.img_one:hover{
+        width: 60px;
+}
+a{
+        color: white;
+        font-size: 20px;
+}
+.h1_three{
+        text-align: right;
+        margin-top: 20px;
+        margin-right: 20px;
+        color: blueviolet;
+}
+.p_three{
+margin-top: 20px;
+margin-right: 40px;
+font-size: 25px;
+}
+
+#three{
+        display: none;
+}
+.img_four{
+        width: 600px;
+        height: 300px;
+        cursor: pointer;
+        transition: 0.5s;
+        
+}
+.img_four:hover{
+        width: 50%;
+        height: 50%;
+}
+#four{
+        display: none;
+}
+#h1_five{
+        color: blanchedalmond;
+        text-align: right;
+        margin-top: 30px;
+}
+#five{
+        text-align: right;
+        display: none;
+}
+
+
+
+
+
+
+
+
+
